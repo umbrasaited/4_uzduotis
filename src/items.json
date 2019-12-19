@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "name": "Light blue dress",
+    "picture": "images/foto1.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Black dress",
+    "picture": "images/foto2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sleevless black dress",
+    "picture": "images/foto3.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Maxi floral print dress",
+    "picture": "images/foto4.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Navy suit",
+    "picture": "images/foto5.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Blue suit",
+    "picture": "images/foto6.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Purple suit",
+    "picture": "images/foto7.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Dark blue suit",
+    "picture": "images/foto8.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Short dress",
+    "picture": "images/foto9.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Maxi dress",
+    "picture": "images/foto10.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Red dress",
+    "picture": "images/foto11.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Short blue dress",
+    "picture": "images/foto12.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Suit",
+    "picture": "images/foto13.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Grey suit",
+    "picture": "images/foto14.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Sky blue suit",
+    "picture": "images/foto15.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Sand color suit",
+    "picture": "images/foto16.jpg"
+  }
+]
